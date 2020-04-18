@@ -1,0 +1,5 @@
+node_modules
+src/config/mail.js
+*.png
+*.jpeg
+*.jpg
